@@ -1,0 +1,5 @@
+This is Automatiom class
+The topic is File Handling
+The assignments are of Read and Write data in txt file
+The current one is of writing data in a file
+Previous assignments were of read data from file

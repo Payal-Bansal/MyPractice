@@ -1,0 +1,7 @@
+I have started my course for Automation Testing.
+Along with that I have opted for API Testing as well.
+Currently, making this file to test file handling.
+Read and Write of data is going to be tested with the script.
+Check out the result of it is correct.
+Prepare the assisgnments well to do good in interview.
+Be confident in interview.
